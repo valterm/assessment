@@ -1,0 +1,14 @@
+D:\repos\assessment\c_sharp\c_sharp\c_sharp\bin\Debug\c_sharp.exe.config
+D:\repos\assessment\c_sharp\c_sharp\c_sharp\bin\Debug\c_sharp.exe
+D:\repos\assessment\c_sharp\c_sharp\c_sharp\bin\Debug\c_sharp.pdb
+D:\repos\assessment\c_sharp\c_sharp\c_sharp\obj\Debug\c_sharp.csprojResolveAssemblyReference.cache
+D:\repos\assessment\c_sharp\c_sharp\c_sharp\obj\Debug\c_sharp.csproj.CoreCompileInputs.cache
+D:\repos\assessment\c_sharp\c_sharp\c_sharp\obj\Debug\c_sharp.exe
+D:\repos\assessment\c_sharp\c_sharp\c_sharp\obj\Debug\c_sharp.pdb
+D:\repos\assessment\c_sharp\c_sharp\bin\Debug\c_sharp.exe.config
+D:\repos\assessment\c_sharp\c_sharp\bin\Debug\c_sharp.exe
+D:\repos\assessment\c_sharp\c_sharp\bin\Debug\c_sharp.pdb
+D:\repos\assessment\c_sharp\c_sharp\obj\Debug\c_sharp.csprojResolveAssemblyReference.cache
+D:\repos\assessment\c_sharp\c_sharp\obj\Debug\c_sharp.csproj.CoreCompileInputs.cache
+D:\repos\assessment\c_sharp\c_sharp\obj\Debug\c_sharp.exe
+D:\repos\assessment\c_sharp\c_sharp\obj\Debug\c_sharp.pdb
